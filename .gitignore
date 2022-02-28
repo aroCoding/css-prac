@@ -1,0 +1,7 @@
+image/
+
+src/scss
+
+node_modules
+
+.env
